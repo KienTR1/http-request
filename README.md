@@ -1,4 +1,5 @@
+# HTTP Request Example
 
-# Haikus for Codespaces
+Uses a POSIX socket to make a very simple HTTP request.
 
-This is a quick node project template for demoing Codespaces. It is based off of the [Azure node sample](https://github.com/Azure-Samples/nodejs-docs-hello-world). It's great!!!
+See the README.md file in the upper level 'examples' directory for more information about examples.
